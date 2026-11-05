@@ -1,0 +1,12 @@
+{
+  "domain": "avolites_titan",
+  "name": "Avolites Titan",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/OWNER/ha-avolites",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/OWNER/ha-avolites/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
